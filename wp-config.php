@@ -19,7 +19,7 @@
  */
 
 define('DB_FILE', 'wordpress');
-define('DB_DIR', 'D:\home\site\database');
+define('DB_DIR', '/site/database');
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
